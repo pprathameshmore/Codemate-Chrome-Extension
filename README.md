@@ -5,7 +5,7 @@
 
 ![Running on my browser](/screenshots/codemate.jpg "Screenshot")
 
-Download  [Download](https://chrome.google.com/webstore/detail/codemate/giddbhandkfeppccoiklhljmlgnkdpbb).
+[Download](https://chrome.google.com/webstore/detail/codemate/giddbhandkfeppccoiklhljmlgnkdpbb).
 
 ## Want to add new features?
 
