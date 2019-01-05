@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Codemate",
-    "description": "Search extension for developers, where developers can search their queries on StackOverflow.",
+    "description": "Search extension for developers, where developers can find exact solution for thier problems on StackOverflow, Stackoverflow + Google.",
     "version": "1",
     "author": "Prathamesh More",
    "browser_action": {
