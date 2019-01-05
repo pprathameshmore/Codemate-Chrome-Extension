@@ -1,0 +1,36 @@
+body {
+    background-image: url("/static/images/background-min.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.white-text {
+    color: white;
+}
+
+.fonts {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.center-content {
+    text-align: center;
+    padding-top: 28%;
+    margin-bottom: 20%;
+}
+
+.btn-size {
+    width: 20%;
+    margin-top: 20px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.footer-content {
+    padding-top: 5%;
+}

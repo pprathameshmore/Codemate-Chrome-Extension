@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Codemate",
+    "description": "Search extension for developers, where developers can search their queries on StackOverflow.",
+    "version": "1",
+    "author": "Prathamesh More",
+   "browser_action": {
+      "default_icon": "icon.jpg",
+      "default_title": "What is your programming question?"
+    },
+   "chrome_url_overrides" : {
+     "newtab": "your_question.html"
+   },
+    "permissions": ["activeTab"]
+   }
