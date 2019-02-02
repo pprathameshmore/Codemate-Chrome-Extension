@@ -5,11 +5,11 @@
 
 ![Running on my browser](/screenshots/codemate.jpg "Screenshot")
 
-Download  [Download](https://chrome.google.com/webstore/detail/codemate/giddbhandkfeppccoiklhljmlgnkdpbb).
+[Download](https://chrome.google.com/webstore/detail/codemate/giddbhandkfeppccoiklhljmlgnkdpbb).
 
 ## Want to add new features?
 
-### **Do you want contribute?**
+### **Do you want to contribute?**
   1. Fork this repo.
   2. Clone to local machine.
   3. Add you own feature and ideas.
