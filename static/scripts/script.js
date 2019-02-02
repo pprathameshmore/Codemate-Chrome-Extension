@@ -1,6 +1,6 @@
-var googleSearch = document.getElementById('google-rb');
-var stackoverflowSearch = document.getElementById('stackoverflow-rb');
-var googleStackOverflowSearch = document.getElementById('google-stackoverflow-rb');
+window.addEventListener('load', function () {
+    console.log('All assets are loaded')
+})
 
 function searchQuestion() {
     var searchQuery = document.getElementById('input-query').value;
