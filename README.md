@@ -5,6 +5,8 @@
 
 ![Running on my browser](/screenshots/codemate.jpg "Screenshot")
 
+[![](/images/download.png)(https://chrome.google.com/webstore/detail/codemate/giddbhandkfeppccoiklhljmlgnkdpb)]
+
 [Download](https://chrome.google.com/webstore/detail/codemate/giddbhandkfeppccoiklhljmlgnkdpbb).
 
 ## Want to add new features?
