@@ -5,7 +5,7 @@
 
 ![Running on my browser](/screenshots/codemate.jpg "Screenshot")
 
-[![https://chrome.google.com/webstore/detail/codemate/giddbhandkfeppccoiklhljmlgnkdpb](/static/images/download.png)](https://chrome.google.com/webstore/detail/codemate/giddbhandkfeppccoiklhljmlgnkdpb)
+[![https://chrome.google.com/webstore/detail/codemate/giddbhandkfeppccoiklhljmlgnkdpbb](/static/images/download.png)](https://chrome.google.com/webstore/detail/codemate/giddbhandkfeppccoiklhljmlgnkdpb)
 ## Want to add new features?
 
 ### **Do you want to contribute?**
