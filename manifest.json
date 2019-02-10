@@ -2,10 +2,10 @@
   "manifest_version": 2,
   "name": "Codemate",
   "description": "Search extension for developers, where developers can solution for thier problems on StackOverflow",
-  "version": "5",
+  "version": "5.1",
   "author": "Prathamesh More",
   "browser_action": {
-    "default_icon": "icon.jpg",
+    "default_icon": "/icon.jpg",
     "default_title": "What is your programming question?"
   },
   "web_accessible_resources": ["scripts/*", "static/images/*"],
@@ -13,6 +13,9 @@
     "newtab": "index.html"
   },
   "content_scripts": [{
+    "matches": [
+      "<all_urls>"
+    ],
     "js": ["static/scripts/script.js"]
 
   }],
